@@ -50,5 +50,5 @@ l.macakova.sk@gmail.com
 
 G00439449@atu.ie
 
-⭐ I’m always learning — feedback and collaboration are welcome!
+⭐ I’m always learning — feedback and collaboration are welcome! 
 -->
