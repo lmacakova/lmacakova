@@ -14,4 +14,4 @@ The simple version at https://lmacakova.github.io
 l.macakova.sk@gmail.com\
 G00439449@atu.ie
 
-⭐ I’m always learning — feedback and collaboration are welcome!
+⭐ Feedback and collaboration are welcome!
