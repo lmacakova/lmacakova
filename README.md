@@ -1,6 +1,6 @@
 👋
 Hi, I’m Lucia\
-I’m a Data Analytics student currently pursuing a Higher Diploma in Science in Computing (Data Analytics) at Atlantic Technological University, Ireland. I have background in environmental science and now I am focused on building practical, data‑driven solutions.
+I’m a Data Analytics graduate at Atlantic Technological University, Ireland. I have background in environmental science and now I am focused on building practical, data‑driven solutions.
 
 🔍 **What I’m Working On:** Data analysis and visualization projects, Python applications and automation, API integrations and data pipelines, and improving my SQL and database skills.
 
